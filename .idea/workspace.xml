@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befa707c-31d1-4fba-83e5-6368c48bed9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/selenium/Facebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Driver/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Selenium_Demo/com/bridgelabz/selenium/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Selenium_Demo/com/bridgelabz/selenium/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Selenium_Demo/com/bridgelabz/selenium/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Selenium_Demo/com/bridgelabz/selenium/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/selenium/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/selenium/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/selenium/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/selenium/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/selenium/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/selenium/Facebook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +35,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="TestNG.Facebook.test2">
-    <configuration name="Facebook" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bridgelabz.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bridgelabz.selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.selenium.Facebook" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Facebook.test3">
     <configuration name="Facebook.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Demo" />
       <extension name="coverage">
@@ -87,6 +65,24 @@
       <option name="PACKAGE_NAME" value="com.bridgelabz.selenium" />
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.selenium.Facebook" />
       <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Facebook.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.selenium.Facebook" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,19 +126,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Facebook" />
       <item itemvalue="TestNG.Facebook.test1" />
       <item itemvalue="TestNG.MainTest" />
       <item itemvalue="TestNG.MainTest.test" />
       <item itemvalue="TestNG.Facebook.test2" />
+      <item itemvalue="TestNG.Facebook.test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Facebook.test3" />
         <item itemvalue="TestNG.Facebook.test2" />
         <item itemvalue="TestNG.Facebook.test1" />
         <item itemvalue="TestNG.MainTest" />
         <item itemvalue="TestNG.MainTest.test" />
-        <item itemvalue="TestNG.Facebook" />
       </list>
     </recent_temporary>
   </component>
@@ -172,22 +168,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1797" height="261" key="GridCell.Tab.0.bottom" timestamp="1596694859654">
+    <state width="1797" height="133" key="GridCell.Tab.0.bottom" timestamp="1596804568188">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state width="1797" height="261" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1596694859654" />
-    <state width="1797" height="261" key="GridCell.Tab.0.center" timestamp="1596694859653">
+    <state width="1797" height="133" key="GridCell.Tab.0.bottom/67.34.1853.1046@67.34.1853.1046" timestamp="1596804568188" />
+    <state width="1797" height="133" key="GridCell.Tab.0.center" timestamp="1596804568188">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state width="1797" height="261" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1596694859653" />
-    <state width="1797" height="261" key="GridCell.Tab.0.left" timestamp="1596694859653">
+    <state width="1797" height="133" key="GridCell.Tab.0.center/67.34.1853.1046@67.34.1853.1046" timestamp="1596804568188" />
+    <state width="1797" height="133" key="GridCell.Tab.0.left" timestamp="1596804568187">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state width="1797" height="261" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1596694859653" />
-    <state width="1797" height="261" key="GridCell.Tab.0.right" timestamp="1596694859654">
+    <state width="1797" height="133" key="GridCell.Tab.0.left/67.34.1853.1046@67.34.1853.1046" timestamp="1596804568187" />
+    <state width="1797" height="133" key="GridCell.Tab.0.right" timestamp="1596804568188">
       <screen x="67" y="34" width="1853" height="1046" />
     </state>
-    <state width="1797" height="261" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1596694859654" />
+    <state width="1797" height="133" key="GridCell.Tab.0.right/67.34.1853.1046@67.34.1853.1046" timestamp="1596804568188" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Selenium_Demo$com_bridgelabz_selenium.ic" NAME="com.bridgelabz.selenium Coverage Results" MODIFIED="1578477013809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

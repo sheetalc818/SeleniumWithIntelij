@@ -33,4 +33,25 @@ public class Facebook extends BaseTest
         driver.findElement(By.xpath("//span[contains(text(),'Continue')]")).click();
         Thread.sleep(1000);
     }
+
+    @Test
+    public void test3() throws InterruptedException {
+        driver.get("https://blz.capsulecrm.com/login");
+        Thread.sleep(5000);
+        driver.findElement(By.id("login:usernameDecorate:username")).sendKeys("sheetalbdz");
+        Thread.sleep(5000);
+        driver.findElement(By.id("login:passwordDecorate:password")).sendKeys("Premanshu8");
+        Thread.sleep(5000);
+        driver.findElement(By.id("login:login")).click();
+        Thread.sleep(5000);
+        driver.findElement(By.id("select-box-el-31")).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id("ember37")).click();
+        Thread.sleep(5000);
+        driver.findElement(By.id("select-box-el-44")).click();
+        Thread.sleep(5000);
+        //driver.findElement(By.id("select-box-el-71")).click();
+        driver.findElement(By.id("select-box-el-72")).click();
+        Thread.sleep(5000);
+    }
 }
